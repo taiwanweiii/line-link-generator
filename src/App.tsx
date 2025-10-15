@@ -21,7 +21,7 @@ export default function App() {
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-blue-100 to-blue-300 p-6">
       <div className="bg-white shadow-lg rounded-2xl p-8 w-full max-w-md">
         <h1 className="text-2xl font-bold text-center mb-6 text-gray-700">
-          LINE 訊息連結產生器
+          LINE 訊息連結產生器1
         </h1>
 
         <div className="mb-4">
