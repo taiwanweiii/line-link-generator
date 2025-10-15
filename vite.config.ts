@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://vite.dev/config/
 export default defineConfig({
-    base: process.env.NODE_ENV === 'production' ? '/line-link-generator/' : '/',
+  base: '/line-link-generator/',   // 🔹 直接寫死
 
     plugins: [react(), tailwindcss()],
 
